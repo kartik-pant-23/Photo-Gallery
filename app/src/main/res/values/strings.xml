@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GallerySaver</string>
+    <string name="photo_gallery">Photo Gallery</string>
+    <string name="photo_gallery_selected">selected</string>
+</resources>
